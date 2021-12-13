@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "添加/修改地址",
+  "usingComponents": {
+    "u-form": "/components/u-form/u-form",
+    "u-form-item": "/components/u-form-item/u-form-item",
+    "u-input": "/components/u-input/u-input",
+    "u-icon": "/components/u-icon/u-icon",
+    "u-switch": "/components/u-switch/u-switch",
+    "u-cell-group": "/components/u-cell-group/u-cell-group",
+    "u-cell-item": "/components/u-cell-item/u-cell-item",
+    "u-button": "/components/u-button/u-button"
+  }
+}

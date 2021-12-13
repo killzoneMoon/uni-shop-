@@ -1,0 +1,65 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/center/center",
+        "pages/goods/goods",
+        "pages/cart/cart",
+        "pages/auth/login",
+        "pages/auth/code",
+        "pages/auth/passwordLogin",
+        "pages/auth/signup",
+        "pages/center/baseInfo",
+        "pages/goods/show",
+        "pages/preview/preview",
+        "pages/orders/addresses",
+        "pages/orders/base-address",
+        "pages/orders/details",
+        "pages/orders/orderList",
+        "pages/collection/collection"
+    ],
+    "subPackages": [],
+    "window": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "读书商城",
+        "navigationBarBackgroundColor": "#F8F8F8",
+        "backgroundColor": "#F8F8F8"
+    },
+    "tabBar": {
+        "color": "#7A7E83",
+        "selectedColor": "rgb(50, 151, 101)",
+        "borderStyle": "black",
+        "backgroundColor": "#ffffff",
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "iconPath": "static/images/uni-app index (1).png",
+                "selectedIconPath": "static/images/uni-app index (2).png",
+                "navigationBarTitleText": "主页",
+                "text": "主页"
+            },
+            {
+                "pagePath": "pages/goods/goods",
+                "iconPath": "static/images/goods.png",
+                "selectedIconPath": "static/images/goods (1).png",
+                "navigationBarTitleText": "商品",
+                "text": "商品"
+            },
+            {
+                "pagePath": "pages/cart/cart",
+                "iconPath": "static/images/cart.png",
+                "selectedIconPath": "static/images/cart (1).png",
+                "navigationBarTitleText": "购物车",
+                "text": "购物车"
+            },
+            {
+                "pagePath": "pages/center/center",
+                "iconPath": "static/images/uni-app profile (2).png",
+                "selectedIconPath": "static/images/uni-app profile (1).png",
+                "navigationBarTitleText": "个人中心",
+                "text": "我"
+            }
+        ]
+    },
+    "usingComponents": {},
+    "sitemapLocation": "sitemap.json"
+}

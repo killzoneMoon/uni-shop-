@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "订单列表",
+  "usingComponents": {
+    "u-tabs": "/components/u-tabs/u-tabs",
+    "u-image": "/components/u-image/u-image",
+    "u-empty": "/components/u-empty/u-empty"
+  }
+}

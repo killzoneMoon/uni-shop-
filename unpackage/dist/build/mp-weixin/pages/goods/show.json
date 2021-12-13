@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "usingComponents": {
+    "goods-card": "/components/goods-card/goods-card",
+    "u-tabs": "/components/u-tabs/u-tabs",
+    "u-parse": "/components/u-parse/u-parse",
+    "bottom-cart": "/components/bottom-cart/bottom-cart"
+  }
+}

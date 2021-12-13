@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "个人信息",
+  "usingComponents": {
+    "u-form": "/components/u-form/u-form",
+    "u-form-item": "/components/u-form-item/u-form-item",
+    "u-input": "/components/u-input/u-input",
+    "u-button": "/components/u-button/u-button"
+  }
+}

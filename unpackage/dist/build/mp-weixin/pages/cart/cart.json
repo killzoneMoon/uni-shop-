@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "购物车",
+  "usingComponents": {
+    "u-empty": "/components/u-empty/u-empty",
+    "cart-item": "/components/cart-item/cart-item",
+    "cart-bottom": "/components/cart-bottom/cart-bottom",
+    "u-loading": "/components/u-loading/u-loading",
+    "u-toast": "/components/u-toast/u-toast"
+  }
+}

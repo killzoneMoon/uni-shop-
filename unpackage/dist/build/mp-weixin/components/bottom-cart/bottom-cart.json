@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "u-icon": "/components/u-icon/u-icon",
+    "u-skeleton": "/components/u-skeleton/u-skeleton",
+    "u-loading": "/components/u-loading/u-loading"
+  },
+  "component": true
+}

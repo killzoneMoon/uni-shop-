@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "u-upload": "/components/u-upload/u-upload",
+    "u-avatar": "/components/u-avatar/u-avatar",
+    "u-loading": "/components/u-loading/u-loading"
+  },
+  "component": true
+}

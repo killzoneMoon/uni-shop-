@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "订单预览",
+  "usingComponents": {
+    "u-image": "/components/u-image/u-image",
+    "cart-bottom": "/components/cart-bottom/cart-bottom"
+  }
+}

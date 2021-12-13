@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "地址栏",
+  "usingComponents": {
+    "u-swipe-action": "/components/u-swipe-action/u-swipe-action",
+    "u-icon": "/components/u-icon/u-icon",
+    "u-empty": "/components/u-empty/u-empty"
+  }
+}

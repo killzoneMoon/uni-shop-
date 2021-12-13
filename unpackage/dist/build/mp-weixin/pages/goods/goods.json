@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "商品中心",
+  "usingComponents": {
+    "u-search": "/components/u-search/u-search",
+    "u-empty": "/components/u-empty/u-empty",
+    "u-loadmore": "/components/u-loadmore/u-loadmore"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "u-icon": "/components/u-icon/u-icon",
+    "u-image": "/components/u-image/u-image",
+    "u-number-box": "/components/u-number-box/u-number-box",
+    "u-toast": "/components/u-toast/u-toast",
+    "u-loading": "/components/u-loading/u-loading"
+  },
+  "component": true
+}

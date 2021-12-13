@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "主页",
+  "usingComponents": {
+    "u-swiper": "/components/u-swiper/u-swiper",
+    "u-tabs": "/components/u-tabs/u-tabs",
+    "goods-card": "/components/goods-card/goods-card",
+    "u-loadmore": "/components/u-loadmore/u-loadmore",
+    "u-skeleton": "/components/u-skeleton/u-skeleton"
+  }
+}

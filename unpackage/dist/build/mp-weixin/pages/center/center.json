@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "usingComponents": {
+    "upload": "/components/upload/upload",
+    "u-cell-group": "/components/u-cell-group/u-cell-group",
+    "u-cell-item": "/components/u-cell-item/u-cell-item",
+    "u-toast": "/components/u-toast/u-toast"
+  }
+}
